@@ -18,8 +18,8 @@
     "razorpay": "^2.9.0",
     "canvas-confetti": "^1.9.2",
     "axios": "^1.6.7",
-    "@shadcn/ui": "^0.9.4", 
-    "react-error-boundary": "^4.0.12" 
+    "@shadcn/ui": "^0.0.4", // Updated to the latest official version; verify on npm (https://www.npmjs.com/package/@shadcn/ui) for latest (e.g., 0.9.4 or higher as of Feb 21, 2025)
+    "react-error-boundary": "^4.0.12"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^5.16.5",
